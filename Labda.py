@@ -10,7 +10,7 @@ hogy elegendő szalagunk van-e a művelet elvégzéséhez, és ezt is közölje 
 
 
 """
-Radial = int(input("Kérlek add meg a labda átmérőjét! (centiméterben) " ))
+Radial = int(input("Kérlek add meg a labda sugarát! (centiméterben) " ))
 Quantity = int(input("Kérlek add meg a labdák számát! (darabban) "))
 Lenght = int(input("Kérlek add meg a szalagod hosszát (centiméterben) "))
 
